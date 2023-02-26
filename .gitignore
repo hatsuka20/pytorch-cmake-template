@@ -1,0 +1,6 @@
+# For developer
+.venv
+build
+**.egg-info
+compile_commands.json
+Pipfile.lock
